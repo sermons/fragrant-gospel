@@ -1,3 +1,3 @@
 ---
-redirect_to: https://sermons.seanho.com/
+redirect_to: https://fragrant.seanho.com/
 ---
